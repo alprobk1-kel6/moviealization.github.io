@@ -35,7 +35,7 @@ rect.background {
 </style>
 <body>
 
-Click <a href="index.html">here</a> to go back
+Click <a href="index6.html">here</a> to go back
 
 <script src="d3.v3.min.js"></script>
 <script>
